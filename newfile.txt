@@ -2,5 +2,10 @@
 An example repository for the command line workshop in tools and basics module.
 
 For the problems see the workshop: https://github.com/greenfox-academy/teaching-materials/edit/master/workshop/command-line
+"hello this is echo" 
+
 "hello this is echo"
+# git-lesson-repository
 Ahoj.
+An example repository for the command line workshop in tools and basics module.
+For the problems see the workshop: https://github.com/greenfox-academy/teaching-materials/edit/master/workshop/command-line
